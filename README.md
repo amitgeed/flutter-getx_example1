@@ -1,5 +1,9 @@
 # flutter_getx
 
+this repository is about the GetX.
+How we can use GetX in flutter for state management.
+
+
 A new Flutter project.
 
 ## Getting Started
